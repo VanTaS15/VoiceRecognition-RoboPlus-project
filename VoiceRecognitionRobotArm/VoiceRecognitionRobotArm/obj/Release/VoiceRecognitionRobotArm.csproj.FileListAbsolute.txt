@@ -1,0 +1,10 @@
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\bin\Release\VoiceRecognitionRobotArm.exe.config
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\bin\Release\RoboPlusTerminal.exe
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\bin\Release\VoiceRecognitionRobotArm.exe
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\bin\Release\VoiceRecognitionRobotArm.pdb
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\obj\Release\VoiceRecognitionRobotArm.csprojResolveAssemblyReference.cache
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\obj\Release\VoiceRecognitionRobotArm.Form1.resources
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\obj\Release\VoiceRecognitionRobotArm.Properties.Resources.resources
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\obj\Release\VoiceRecognitionRobotArm.csproj.GenerateResource.Cache
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\obj\Release\VoiceRecognitionRobotArm.exe
+A:\Users\Michalis\Documents\Visual Studio 2015\Projects\VoiceRecognitionRobotArm\VoiceRecognitionRobotArm\obj\Release\VoiceRecognitionRobotArm.pdb
